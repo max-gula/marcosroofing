@@ -1,0 +1,6 @@
+{
+  "name": "Marco's Roofing Solutions",
+  "description": "Melbourne's premier tile roof restoration, repair, and roofing supplies specialist based in Bundoora, Victoria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
